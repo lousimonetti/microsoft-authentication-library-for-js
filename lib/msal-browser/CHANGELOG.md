@@ -1,8 +1,17 @@
 # Change Log - @azure/msal-browser
 
-This log was last generated on Mon, 04 Oct 2021 23:12:35 GMT and should not be manually modified.
+This log was last generated on Mon, 11 Oct 2021 13:48:39 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 2.18.1
+
+Mon, 11 Oct 2021 13:48:39 GMT
+
+### Patches
+
+- Fix typo in noTokenRequestCacheError (#4136) (Michael.Currie@rjwgroup.com)
+- Bump @azure/msal-common to v5.0.2
 
 ## 2.18.0
 

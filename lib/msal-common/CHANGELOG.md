@@ -1,8 +1,16 @@
 # Change Log - @azure/msal-common
 
-This log was last generated on Mon, 04 Oct 2021 23:12:35 GMT and should not be manually modified.
+This log was last generated on Mon, 11 Oct 2021 13:48:39 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 5.0.2
+
+Mon, 11 Oct 2021 13:48:39 GMT
+
+### Patches
+
+- Update authority metadata error messages (thomas.norling@microsoft.com)
 
 ## 5.0.1
 

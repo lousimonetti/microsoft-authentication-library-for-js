@@ -2,6 +2,27 @@
   "name": "@azure/msal-browser",
   "entries": [
     {
+      "date": "Mon, 11 Oct 2021 13:48:39 GMT",
+      "tag": "@azure/msal-browser_v2.18.1",
+      "version": "2.18.1",
+      "comments": {
+        "patch": [
+          {
+            "author": "Michael.Currie@rjwgroup.com",
+            "package": "@azure/msal-browser",
+            "comment": "Fix typo in noTokenRequestCacheError (#4136)",
+            "commit": "81a38fd0be83462654972edb629a97524d5dac54"
+          },
+          {
+            "author": "beachball",
+            "package": "@azure/msal-browser",
+            "comment": "Bump @azure/msal-common to v5.0.2",
+            "commit": "81a38fd0be83462654972edb629a97524d5dac54"
+          }
+        ]
+      }
+    },
+    {
       "date": "Mon, 04 Oct 2021 23:12:35 GMT",
       "tag": "@azure/msal-browser_v2.18.0",
       "version": "2.18.0",
