@@ -69,7 +69,7 @@
     "@types/node": "^11.13.4",
     "@types/sinon": "^7.0.11",
     "@types/uuid": "^3.4.4",
-    "ajv": "6.6.1",
+    "ajv": "6.12.3",
     "awesome-typescript-loader": "^3.2.3",
     "babel-plugin-istanbul": "^5.2.0",
     "babel-polyfill": "^6.26.0",
